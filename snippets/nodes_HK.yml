@@ -1,53 +1,49 @@
 proxies:
-- cipher: aes-128-gcm
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇭🇰 香港|@ripaojiedian
-  password: 26f959e3-1a5e-3b3d-b4cd-fe04c80902bd
-  port: 10004
-  server: cdn.node1.lilisi.link
+  password: 29774f68-6f8c-492d-9ada-5cfd4313d218
+  port: 11001
+  server: 183.240.255.75
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港2|@ripaojiedian
+  password: 8c052d7a-d5da-495a-abee-93f4bef380e1
+  port: 54937
+  server: jioawdm.zhangwei.li
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港2|@ripaojiedian
-  password: 030b7ede-55e5-4e1f-b509-efcacc1877e1
-  port: 21017
-  server: tt07.51feitu.com
+  name: 15|🇭🇰 香港3|@ripaojiedian
+  password: b6979cfa-bab9-4303-b10c-cd350fbea326
+  port: 27263
+  server: gtm1.ktmwan.com
   tfo: false
   type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 15|🇸🇪 瑞典|@ripaojiedian
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 13.49.130.179
+  name: 15|🇮🇹 意大利|@ripaojiedian
+  password: 981db44e-9f07-49eb-9ba0-6ab4939919a2
+  port: 2098
+  server: f41.maryam1500.top
   skip-cert-verify: false
-  sni: trojan.burgerip.co.uk
+  sni: twnode11.oportal.cc
   tfo: false
   tls: false
-  type: trojan
+  type: vmess
   uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- alterId: 0
-  cipher: auto
-  name: 16|香港3|@ripaojiedian
-  network: tcp
-  port: '51272'
-  server: 38.147.188.98
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cd7c66cf-aad9-4646-b979-7555aa124b93
-- alterId: 64
-  cipher: auto
-  name: 16|香港4|@ripaojiedian
-  network: tcp
-  port: '35601'
-  server: 120.232.153.40
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港R|@ripaojiedian
+  password: hGkQ6915tD
+  port: 16088
+  server: 120.232.81.50
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 16|香港5|@ripaojiedian
@@ -58,3 +54,13 @@ proxies:
   tls: false
   type: vmess
   uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00
+- alterId: 0
+  cipher: auto
+  name: 16|香港6|@ripaojiedian
+  network: tcp
+  port: '12960'
+  server: z3.fragranceninja.com
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: a32313ad-5e39-4f9a-9cad-512041790050

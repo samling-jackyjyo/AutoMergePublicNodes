@@ -5,45 +5,19 @@ proxies:
   port: 443
   server: 54.179.87.28
   type: ss
-- alterId: 0
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15,16|新加坡|@ripaojiedian
-  network: ws
-  port: '443'
-  server: 192.53.172.172
-  servername: 192.53.172.172
-  skip-cert-verify: false
+  name: 15|🇸🇬 新加坡|@ripaojiedian
+  password: 4b3391e1-3cc6-4e82-816c-6b7bf516c12b
+  port: 39204
+  server: hzhz1.sssyun.xyz
   tfo: false
-  tls: true
-  type: vmess
-  uuid: 7ad8da0c-fda5-416b-9e72-47cc68313ffe
-  ws-opts:
-    headers:
-      Host: 192.53.172.172
-    path: /nrMnVTFq
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 15,16|新加坡2|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 47.84.66.79
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 9caa711c-2490-4041-812d-edbcb994fd18
-  ws-opts:
-    headers:
-      Host: ''
-    path: /9caa711c
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.250.103.70
+  server: 13.112.168.104
   tfo: false
   type: ss
