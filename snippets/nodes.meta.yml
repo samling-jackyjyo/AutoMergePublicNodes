@@ -71,6 +71,14 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
+- name: 9|48@NetFlowTools
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.160
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2
+  tls: false
+  type: hysteria2
 - name: 9|♦️56@NetFlowTools
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
@@ -262,6 +270,13 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
+- name: 9|37@oneclickvpnkeys
+  password: 35a14133-45f6-40bc-a9cd-918fd0ecb345
+  port: 5443
+  server: france-2.hysteria.ltd
+  sni: france-2.hysteria.ltd
+  tls: false
+  type: hysteria2
 - name: 9|️️@ATLAS_V2VPN️️432️
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -375,16 +390,6 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: V2Rayyngvpn
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 9| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -473,7 +478,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: '9|@meliproxyy #2'
+- name: '9|@meliproxyy #1'
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
@@ -487,6 +492,16 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 9|️V2rayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: w1BoB6s3L3
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
