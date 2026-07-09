@@ -1,4 +1,12 @@
 proxies:
+- name: 9|GB-🚀@VPNine1
+  password: hy2_lositfbu
+  port: 443
+  server: 144.31.213.121
+  skip-cert-verify: true
+  sni: gb.cleanersaz.help
+  tls: false
+  type: hysteria2
 - name: 13|GB_speednode_0005
   network: ws
   password: MITIVPN
