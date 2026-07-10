@@ -9,16 +9,17 @@ hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni
 hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd#9%7C%F0%9F%8E%8D25%40oneclickvpnkeys
 hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@vkmks.hysteria.ltd:5443?sni=vkmks.hysteria.ltd#9%7C%F0%9F%8E%8D55%40v2ray_configs_pools
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#9%7C%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F432%EF%B8%8F
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#9%7Ctelegram%20%40mtmvpn
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#9%7C%40FreakConfig
 hysteria2://Dd8FfJSif0@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7Ct-me-V2RayyNGvpn%EF%B8%8F
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&sni=https://t.me/WangCai2#9%7C%F0%9F%8E%8D68%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D65%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@44.245.99.184:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D64%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@44.249.61.233:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D63%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D67%40oneclickvpnkeys
+hysteria2://KYFundefinedZYs4KB@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40V2RayyNGvpn%F0%9F%87%AA
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#9%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://MjLSEZj2IW@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40V2RayyNGvpn%F0%9F%87%AA
-hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://MjLSEZj2IW@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%231
 hysteria2://TGzLlWQaFb@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40prrofile_purple%20%20%EF%B8%8F%20
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%20-%20NL%20-%20%40FreeOnlineVPN
@@ -26,7 +27,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#9%7CTel%3A%20%40Daily_Configs
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#9%7C%F0%9F%8E%8D7%40oneclickvpnkeys
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#9%7CChannel%3A%20%40Daily_Configs
-hysteria2://vyba34ny8juddmmi@wp.zibayeman.com:35288?insecure=0&sni=wp.zibayeman.com&obfs=salamander&obfs-password=47tn6dgvjzotndv8#9%7C%40filembad
 hysteria2://y4nJ8poIsh@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%20%231
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#9%7C18%40oneclickvpnkeys
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https://www.calmloud.com#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2raybazi
@@ -58,4 +58,3 @@ vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?allowInsecure=0&sn
 vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14005?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#13%7CUS_speednode_0055
 vless://057f3c26-0fe7-4315-aabc-90c79d413d70@38.244.20.69:443?allowInsecure=1&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#13%7CUS_speednode_0056
 trojan://Mitivpn@iranpoems.ir:443?allowInsecure=0&sni=www.gamingdll.ir&type=ws&host=www.gamingdll.ir&path=/usa=mitivpn#13%7CUS_speednode_0063
-hhysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@vkmks.hysteria.ltd:5443/?sni=vkmks.hysteria.ltd#@V2ray_confiig
