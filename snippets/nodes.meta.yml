@@ -87,7 +87,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 9|@FreakConfig
+- name: 9|🇩🇪@V2rayng_Fast
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -147,7 +147,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇪
+- name: 9|@filembad
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: KYFundefinedZYs4KB

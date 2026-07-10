@@ -9,14 +9,14 @@ hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni
 hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@unic.hysteria.ltd:5443?sni=unic.hysteria.ltd#9%7C%F0%9F%8E%8D25%40oneclickvpnkeys
 hysteria2://57c77d07-bec3-4bf7-9b72-70ece40450f6@vkmks.hysteria.ltd:5443?sni=vkmks.hysteria.ltd#9%7C%F0%9F%8E%8D55%40v2ray_configs_pools
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#9%7C%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F432%EF%B8%8F
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#9%7C%40FreakConfig
+hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
 hysteria2://Dd8FfJSif0@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7Ct-me-V2RayyNGvpn%EF%B8%8F
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&sni=https://t.me/WangCai2#9%7C%F0%9F%8E%8D68%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D65%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@44.245.99.184:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D64%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@44.249.61.233:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D63%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.254.22.28:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#9%7C%F0%9F%8E%8D67%40oneclickvpnkeys
-hysteria2://KYFundefinedZYs4KB@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40V2RayyNGvpn%F0%9F%87%AA
+hysteria2://KYFundefinedZYs4KB@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40filembad
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#9%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://MjLSEZj2IW@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%231
