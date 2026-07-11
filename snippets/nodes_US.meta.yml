@@ -7,28 +7,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 11|🇺🇸 美国|@ripaojiedian
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 17005
-  server: 95.40.99.31
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 11|🇺🇸 美国2|@ripaojiedian
-  password: bb839d14960b7a4fb1e95a3aef990528
-  port: 17005
-  server: 43.199.215.77
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 11|🇺🇸 美国3|@ripaojiedian
-  password: BxceQaOe
-  port: 34638
-  server: 18.162.154.153
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 12|美国|@ripaojiedian
+- name: 11,12|美国|@ripaojiedian
   network: tcp
   password: b1a42ca60884057bf527d8d38b618cfb
   port: 17005
@@ -36,14 +15,15 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 12|美国2|@ripaojiedian
+- name: 11,12|美国2|@ripaojiedian
   network: tcp
   password: b1a42ca60884057bf527d8d38b618cfb
   port: 17005
   server: 18.166.63.229
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 12|美国3|@ripaojiedian
+- name: 11,12|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 44265
