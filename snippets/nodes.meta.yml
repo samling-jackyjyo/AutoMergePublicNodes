@@ -63,14 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|🎍55@v2ray_configs_pools
-  password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
-  port: 5443
-  server: vkmks.hysteria.ltd
-  sni: vkmks.hysteria.ltd
-  tls: false
-  type: hysteria2
-- name: 9|️@ATLAS_V2VPN️️432️
+- name: 9|♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️432🌐...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -209,16 +202,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 9|🎍7@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: 130.49.161.70
-  skip-cert-verify: true
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
 - name: '9|Channel: @Daily_Configs'
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
@@ -237,14 +220,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 9|18@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - name: 9|🇩🇪@V2raybazi
