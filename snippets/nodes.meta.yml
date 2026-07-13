@@ -101,6 +101,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 9|Telegram🇩🇪V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: D0KVsHbDlj
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 9|t-me-V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -111,14 +121,14 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪108906 | ️Telegram = t.me/SO...
+- name: 9|TelegramV2RayyNGvpn🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: JxCHTtg2gX
-  port: 40460
-  server: 91.107.152.188
+  password: H2I53e3OzO
+  port: 33884
+  server: 140.233.177.48
   skip-cert-verify: true
-  sni: www.amd.com
+  sni: www.oracle.com
   tls: false
   type: hysteria2
 - name: 9|@V2RayyNGvpn🇩🇪
@@ -161,7 +171,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇵
+- name: 9|🇨🇵@V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Vcl3b47Nvd
@@ -277,7 +287,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫🇮109138 | ⚡️Telegram = t.me/S...
+- name: 9|🇫🇮109138 | ️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -347,7 +357,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|🇫🇮109138 | ⚡️Telegram = t.me/S... #1'
+- name: 9|🇫🇮109138 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -367,7 +377,7 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: 9|🇩🇪109092 | ⚡️Telegram = t.me/S...
+- name: '9|Tel: @Daily_Configs'
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: eltgrek81o6w5cd4
@@ -377,17 +387,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 9|🇱108880 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: lhfl2z9mjngb7csh
-  password: eltgrek81o6w5cd4
-  port: 1935
-  server: soskeynets.nn-foto.ru
-  skip-cert-verify: false
-  sni: nrealistic.nn-foto.ru
-  tls: false
-  type: hysteria2
-- name: 9|🇩🇪109085 | ⚡️Telegram = t.me/S...
+- name: 9|hy2@V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: hPrGN1Oundefinedwu

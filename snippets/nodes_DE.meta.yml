@@ -37,10 +37,10 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪108906 | ️Telegram = t.me/SO...
+- name: 9|Telegram🇩🇪V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: JxCHTtg2gX
+  password: D0KVsHbDlj
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
