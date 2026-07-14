@@ -70,7 +70,7 @@ proxies:
   sni: hyst-1.hysteria.ltd
   tls: false
   type: hysteria2
-- name: 9|15@oneclickvpnkeys
+- name: 9|🎡15@oneclickvpnkeys
   password: 88f839f2-c3c0-487d-aac3-f8c089d2369d
   port: 55000
   server: 45.154.205.25
@@ -78,7 +78,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@FreakConfig
+- name: 9|@FreakConfig
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -218,7 +218,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9|🇫110294 | ⚡️Telegram = t.me/SO...
+- name: 9|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: elknam6l7izf3z71
@@ -282,12 +282,22 @@ proxies:
   type: hysteria2
 - name: 9|@GozargahAzad|🇫🇮
   obfs: salamander
-  obfs-password: hg7rfvz151ftjh0w
+  obfs-password: w0tx1ju9iix6913p
   password: elknam6l7izf3z71
-  port: 52062
+  port: 52034
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: ''
+  tls: false
+  type: hysteria2
+- name: 9|🇫🇮110421 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: w0tx1ju9iix6913p
+  password: elknam6l7izf3z71
+  port: 52034
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 9|🇫🇮110339 | ⚡️Telegram = t.me/S...
@@ -296,6 +306,16 @@ proxies:
   password: elknam6l7izf3z71
   port: 52062
   server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 9|🇫🇮110294 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: gu74jg3ym0e21zco
+  password: elknam6l7izf3z71
+  port: 52000
+  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
@@ -339,16 +359,6 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪hy
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: tU9Tcz3TMp
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '9|Channel : @Daily_Configs'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -367,14 +377,6 @@ proxies:
   server: 140.233.177.48
   skip-cert-verify: true
   sni: www.oracle.com
-  tls: false
-  type: hysteria2
-- name: 9|16@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: https://www.calmloud.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
