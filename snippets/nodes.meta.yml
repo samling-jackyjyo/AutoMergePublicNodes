@@ -90,6 +90,15 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
+- name: 9|NL-@VPNine1
+  obfs: salamander
+  obfs-password: jmtfanpzqdxu4tn7
+  password: 9204bccb42c743799c6069feccb7832d
+  port: 443
+  server: nl1.jamezwin.org
+  sni: nl1.jamezwin.org
+  tls: false
+  type: hysteria2
 - name: 9|@V2RayyNGvpn ا 🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -162,6 +171,24 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 9|46@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: dwv3ped4yi46iw8r
+  password: TELEGRAM-ID-soalvajavaab
+  port: 2053
+  server: pristytools.com.pristytools.com
+  tls: false
+  type: hysteria2
+- name: 9|🇨🇦Telegram=V2RayyNGvpn🇦
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 42286
+  server: 66.92.161.59
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 9|@prrofile_purple  ️ تا
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -172,7 +199,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 9| - NL - @FreeOnlineVPN
+- name: 9|🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -202,7 +229,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|@vmesskhodam #1'
+- name: 9|@erfanandroid
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: elknam6l7izf3z71
@@ -232,7 +259,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫@FreakConfig
+- name: '9|@FreakConfig #1'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -240,6 +267,15 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 9|🇫🇮112185 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: '''a;skdfhbhdksla'
+  password: l49dNOzhCD
+  port: 42260
+  server: fl5.cr7com1.ir
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 9|@V2RayyNGvpn کانال ما🇩🇪
@@ -262,7 +298,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 9|🇷112121 | ⚡️Telegram = t.me/SO...
+- name: 9| t.me/bigAVPN ایا اد 👑
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
