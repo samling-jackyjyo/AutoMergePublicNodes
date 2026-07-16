@@ -73,6 +73,13 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: 9|23@oneclickvpnkeys
+  password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
+  port: 8443
+  server: 45.155.103.217
+  sni: kamil-power-machine.roxa.org
+  tls: false
+  type: hysteria2
 - name: 9|🇩🇪@V2rayng_Fast
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
@@ -145,7 +152,17 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 9|@prrofile_purple   تا
+- name: 9|🇩🇪Telegram=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: RKJDOKrcIZ
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 9|@prrofile_purple  ️ تا
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNgvpn
@@ -215,7 +232,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|@FreakConfig #1'
+- name: 9|🇫@FreakConfig
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -245,7 +262,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 9| t.me/bigAVPN ایا اد 👑
+- name: 9|🇷112121 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
@@ -255,7 +272,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 9|@Alpha_v2rayIP🍓
+- name: 9|🇩🇪@V2RayyNGvpn کانال ما
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: tf5LINcpQy
