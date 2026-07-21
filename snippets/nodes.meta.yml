@@ -73,16 +73,6 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: '8|@V2RayyNGvpn ا  '
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 73x493S1pE
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '8|@AzarAndoozVPNbot #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -141,10 +131,10 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
+- name: 8|🇩🇪 کانال ما @V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: R9BN2XHrGV
+  password: RSGabzHJGl
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
@@ -191,7 +181,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|🇩🇪 کانال ما @V2RayyNGvpn🇩🇪
+- name: '8|🇩🇪 کانال ما @V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ZkWtnfGK6h
@@ -241,7 +231,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪 کانال ما @V2RayyNGvpn🇩🇪 #1'
+- name: '8|🇩🇪 کانال ما @V2RayyNGvpn🇩🇪 #2'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: lubtxOi8h8
@@ -258,6 +248,24 @@ proxies:
   port: 1935
   server: nrealistic.nn-foto.ru
   sni: nrealistic.nn-foto.ru
+  tls: false
+  type: hysteria2
+- name: 8|45@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: o3774es6cfv74kaf
+  port: 443
+  server: social.klipp.su
+  sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪117460 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: o3774es6cfv74kaf
+  port: 443
+  server: soskeynets.klipp.su
+  sni: social.klipp.su
   tls: false
   type: hysteria2
 - name: 8|MTMVPN 🇩🇪
