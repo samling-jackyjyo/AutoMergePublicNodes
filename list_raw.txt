@@ -22,13 +22,9 @@ hysteria2://ZkWtnfGK6h@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=sala
 hysteria2://ZkaDQncyundefineda@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40AzarAndoozVPNbot%20%233
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#8%7C%40FarazV2ray
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?insecure=0&obfs=salamander&obfs-password=93lc6r07zfx4crct#8%7C117667%20%7C%20Telegram%20%3D%20t.me/SOSke...
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?insecure=0&sni=&obfs=salamander&obfs-password=53cgqwhojoxri5lr#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%40VPNine1
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#8%7C%F0%9F%87%AB%F0%9F%87%AE117677%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%40prrofile_purple%20%20%EF%B8%8F%20%D8%A7
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52008?insecure=0&obfs=salamander&obfs-password=93lc6r07zfx4crct#8%7C%F0%9F%87%AB%F0%9F%87%AE117667%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52018?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#8%7C%F0%9F%87%AB%F0%9F%87%AE117677%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
-hysteria2://fGc3qPlaQk@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA117699%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?insecure=0&sni=&obfs=salamander&obfs-password=53cgqwhojoxri5lr#8%7CFI-%40VPNine1
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%40prrofile_purple%20%20%20%D8%A7
+hysteria2://fGc3qPlaQk@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7CTelegram%3DV2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://lubtxOi8h8@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%232
 hysteria2://o3774es6cfv74kaf@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#8%7C%F0%9F%93%8A87%40oneclickvpnkeys
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#8%7C45%40oneclickvpnkeys
