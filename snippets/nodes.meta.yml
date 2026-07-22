@@ -63,7 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|♨️65@oneclickvpnkeys
+- name: 8|118893 | ️Telegram = t.me/SOSk...
   password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
   port: 4433
   server: 202.61.205.86
@@ -87,6 +87,16 @@ proxies:
   password: 73x493S1pE
   port: 31999
   server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|@V2RayyNGvpn🇵
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: 76TeSy4hi8
+  port: 55809
+  server: 51.159.137.79
   skip-cert-verify: true
   sni: www.amd.com
   tls: false

@@ -6,9 +6,10 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7C%40KAFING_2
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#8%7C%E2%99%A8%EF%B8%8F65%40oneclickvpnkeys
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#8%7C118893%20%7C%20%EF%B8%8FTelegram%20%3D%20t.me/SOSk...
 hysteria2://5NLxoNSwj0@162.19.181.176:40837?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://73x493S1pE@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%20%D8%A7%20%20
+hysteria2://76TeSy4hi8@51.159.137.79:55809?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%B5
 hysteria2://ALg6h4f8Mo@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40AzarAndoozVPNbot
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https://t.me/oneclickvpnkeys#8%7C%40one_shop_official
 hysteria2://IoFmkhjUlE@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40icv2ray
@@ -55,4 +56,3 @@ vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?allowInsecure=0&sn
 vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14005?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#12%7CUS_speednode_0055
 vless://057f3c26-0fe7-4315-aabc-90c79d413d70@38.244.20.69:443?allowInsecure=1&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#12%7CUS_speednode_0056
 trojan://Mitivpn@iranpoems.ir:443?allowInsecure=0&sni=www.gamingdll.ir&type=ws&host=www.gamingdll.ir&path=/usa=mitivpn#12%7CUS_speednode_0063
-hhysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#118893 | ️Telegram = t.me/SOSkeyNET
