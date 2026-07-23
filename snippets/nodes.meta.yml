@@ -73,6 +73,16 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: '8|🇩🇪@V2RayyNGvpn ا  '
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: 73x493S1pE
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 8|@V2RayyNGvpn🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -177,7 +187,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇳🇱 - NL - @FreeOnlineVPN
+- name: 8| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -207,6 +217,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|🇺🇸120253 | Telegram = t.me/SOS...
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  skip-cert-verify: false
+  sni: hy2.123266.xyz
+  tls: false
+  type: hysteria2
 - name: 8|📪20@oneclickvpnkeys
   password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
   port: 8443
@@ -228,7 +246,7 @@ proxies:
   sni: de1-hy2.veilvpn.life
   tls: false
   type: hysteria2
-- name: 8|55@oneclickvpnkeys
+- name: 8|📪55@oneclickvpnkeys
   password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
   port: 8443
   server: de5-hy2.veilvpn.life
@@ -255,6 +273,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 8|81@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 185.90.61.28
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - name: 8|Telegram=V2RayyNGvpn🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -263,13 +288,6 @@ proxies:
   server: 51.159.137.79
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|️89@oneclickvpnkeys
-  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
-  port: 8443
-  server: 45.154.206.72
-  sni: russiapower.accesscam.org
   tls: false
   type: hysteria2
 - name: 8|MTMVPN 🇩🇪
@@ -282,13 +300,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|@Unblocked_ir
+- name: '8|@mehrosaboran #2'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
   port: 443
   server: 130.49.161.70
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
