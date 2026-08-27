@@ -8,13 +8,21 @@ proxies:
   tls: false
   type: hysteria2
 - name: 美国
+  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
+  port: 443
+  server: us.frkn.org
+  skip-cert-verify: true
+  sni: us.frkn.org
+  tls: false
+  type: hysteria2
+- name: '美国 #1'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8080
   server: 82.39.214.98
   sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
-- name: '美国 #1'
+- name: '美国 #2'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -22,14 +30,6 @@ proxies:
   server: nl1.sferavpn.pro
   skip-cert-verify: true
   sni: nl1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: '美国 #2'
-  password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
-  port: 11683
-  server: uswx4.wxgqlfx.vip
-  skip-cert-verify: true
-  sni: 144.225.187.153
   tls: false
   type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
@@ -46,6 +46,15 @@ proxies:
   server: faq.wwwinternetvideo.click
   skip-cert-verify: true
   sni: cabinet.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
+- name: 📍45@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: ru1.sferavpn.pro
+  sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
 - cipher: aes-256-gcm

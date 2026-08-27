@@ -8,6 +8,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: '日本 #1'
+  password: a9081889-1949-49ba-a2aa-7054515716de
+  port: 3488
+  server: c2.bestai.beauty
+  skip-cert-verify: true
+  sni: c2.bestai.beauty
+  tls: false
+  type: hysteria2
+- name: '日本 #2'
   password: ef18d810-719c-4bf1-83c6-615d01f217eb
   port: 443
   server: jp.cryptoofarm.com
