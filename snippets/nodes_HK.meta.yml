@@ -7,13 +7,6 @@ proxies:
   sni: hk2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 🇭🇰HK
-  password: 9q3Mb0IzSVbnwaqK
-  port: 16001
-  server: 18.162.42.61
-  sni: hk-ls-r-1.czzhkractqqakfzdmrgd.cc
-  tls: false
-  type: hysteria2
 - name: 🇭🇰 HK
   password: f4927789e58bcd24b6f6
   port: 10444

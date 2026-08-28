@@ -13,7 +13,7 @@ proxies:
   server: uk196.mechvpn.online
   tls: false
   type: hysteria2
-- name: 🇺🇦UKraine
+- name: '英国 #1'
   password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
   port: 8443
   server: hy2-germany.unlimited-access.ru

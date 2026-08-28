@@ -48,6 +48,14 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
+- name: 🇸🇬153995 | ⚡️Telegram = t.me/S...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.254.157.26
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
 - name: '新加坡 #3'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
