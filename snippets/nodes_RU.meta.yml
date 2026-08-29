@@ -1,4 +1,14 @@
 proxies:
+- name: 'A - 🇷🇺 RU 01 TG: @nodpai'
+  network: ws
+  port: 8880
+  server: 45.67.215.30
+  type: vless
+  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+  ws-opts:
+    headers:
+      Host: vms.lifetime48.workers.dev
+    path: /
 - name: Telegram 🆔@cnetvpn 🇷🇺
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
@@ -9,3 +19,19 @@ proxies:
   sni: giftcard.gisora.ir
   tls: false
   type: hysteria2
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇷🇺RU_1|3.5MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k
+    short-id: '!!str '
+  server: de55.tranzit-net.ru
+  servername: d.tranzit-net.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: be3c103d-2c93-4f8e-adb9-2631537f80eb
+  xudp: true
