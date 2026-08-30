@@ -520,7 +520,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 🇷🇺156002 | ⚡️Telegram = t.me/S...
+- name: 4🐲@oneclickvpnkeys
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: hold.wwwinternetvideo.click
@@ -737,6 +737,16 @@ proxies:
   sni: de.vpnjey.store
   tls: false
   type: hysteria2
+- name: 🪞58@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram@vpnjey
+  port: 36264
+  server: 77.110.96.201
+  skip-cert-verify: true
+  sni: se.vpnjey2.dpdns.org
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 'Telegram@vpnjey #1'
@@ -854,6 +864,13 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
+- name: 🪞57@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 222.167.212.81
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   client-fingerprint: chrome
@@ -966,7 +983,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🍑52@ConfigV2RayNG
+- name: '@meliproxyy #2'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -1034,6 +1051,13 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🪞50@oneclickvpnkeys
+  password: wrSuBorIlf
+  port: 443
+  server: hys9.wba-pn.ru
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇫🇮
