@@ -56,14 +56,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@AZARBAYJAB1
+- alpn:
+  - h2
+  - http/1.1
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪164008 | ⚡️Telegram = t.me/S...
   obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 6mk75ho4jzef3uuj
-  port: 52022
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+  obfs-password: 8bxx2uhmgtumj4ug
+  password: 73rs6nocfvy947ht
+  port: 80
+  server: 1111.yoursitedesigners.ir
+  sni: 1111.yoursitedesigners.ir
   tls: false
   type: hysteria2
 - alpn:
@@ -144,34 +148,96 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 🇩🇪1@JKVPN
+  name: '-🇩🇪 @VConfing #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
   port: 52021
   server: giftcard.gateway-stream.com
+  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h2
-  client-fingerprint: chrome
+- name: 🇩🇪@AZARBAYJAB1
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: s6gt5e4mof43sfg8
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
   encryption: none
-  name: 🇩🇪DE_1|3.7MB/s
-  network: xhttp
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_1|2.5MB/s
+  network: tcp
   port: '443'
-  server: 167.233.219.201
-  servername: fsn1.nordlinkcloud.com
+  reality-opts:
+    public-key: BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30
+    short-id: '!!str 4da5d1853f04af6d'
+  server: rrr.windconnect.pro
+  servername: rrr.windconnect.pro
   tls: true
   type: vless
   udp: true
-  uuid: 05bfcbaa-cba0-4bce-9103-09fe3f5f0667
+  uuid: af00e0c4-decf-48f2-9013-56abe9c9efcd
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: 🇩🇪DE_2|4.3MB/s
+  network: xhttp
+  port: '14639'
+  reality-opts:
+    public-key: AL1Q34aEyaqV5FlCsQU75ga6XoKRLIktpytwS0jrtUA
+    short-id: '!!str c4659970'
+  server: 91.107.174.203
+  servername: amp-api-edge.apps.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 88888888-8888-8888-8888-888888888888
   xhttp-opts:
     mode: auto
-    path: /api/v3/stream/
+    path: /
+  xudp: true
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_3|3.7MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw
+    short-id: '!!str 4a1b0c7d'
+  server: 91.233.8.31
+  servername: tnt-cloud.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2feda6f7-8baa-4591-a851-1e2037a58572
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 🇩🇪DE_4|2.0MB/s
+  network: xhttp
+  port: '2087'
+  server: cl.econeko.ir
+  servername: cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: cf1d2ded-2472-483a-f2f2-12c83d1826dd
+  xhttp-opts:
+    mode: auto
+    path: /@v2_line
   xudp: true
 - encryption: none
-  name: 🇩🇪DE_2|1.1MB/s
+  name: 🇩🇪DE_5|1.4MB/s
   network: ws
   port: '2087'
   server: 188.220.67.245
@@ -182,19 +248,13 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-      User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.90 Safari/537.36
     path: /8f2690e2d016
   xudp: true
-- name: 🇩🇪DE_3|2.1MB/s
-  port: 443
-  server: 149.36.50.129
-  skip-cert-verify: true
-  tls: true
+- name: 🇩🇪DE_6|1.3MB/s
+  password: udp-relay=true
+  port: 11111
+  server: 103.237.102.191
   type: http
-- name: 🇩🇪DE_4|1.1MB/s
-  port: 443
-  server: fan.973511.xyz
-  sni: fan.973511.xyz
-  tls: true
-  type: http
+  username: None

@@ -23,37 +23,83 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 🇬🇧GB_1|3.3MB/s
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇬🇧4@JKVPN
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: s6gt5e4mof43sfg8
+  port: 52033
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- client-fingerprint: qq
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇬🇧GB_8|2.2MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk
+    short-id: '!!str a9c4f17e3b62d8'
+  server: 176.109.88.216
+  servername: api-maps.yandex.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2c7f1414-87ae-4a01-9796-a02c067891a6
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: 🇬🇧GB_2|3.2MB/s
+  password: T6IcUpcVx0Y85DxSTgXe4A
+  port: '97'
+  server: 86.38.182.226
+  type: ss
+  udp: true
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: api
+  name: 🇬🇧GB_3|3.5MB/s
+  network: grpc
+  port: '43435'
+  reality-opts:
+    public-key: mc5GFUALNT1V4TgYZ4OWJHB2DQ-G-b4qLYsRlgWB-VQ
+    short-id: '!!str 37dc4f92a7470fa0'
+  server: 31.77.111.31
+  servername: cdn.higames.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2feda6f7-8baa-4591-a851-1e2037a58572
+  xudp: true
+- name: 🇬🇧GB_4|3.0MB/s
   password: None
   port: 443
-  server: 212.102.63.61
+  server: 185.235.0.66
   skip-cert-verify: true
   tls: true
   type: http
   username: null
-- name: 🇬🇧GB_2|2.3MB/s
+- name: 🇬🇧GB_5|1.7MB/s
   port: 443
-  server: 212.102.63.31
+  server: 185.235.0.98
   skip-cert-verify: true
   tls: true
   type: http
-- name: 🇬🇧GB_3|2.3MB/s
+- name: 🇬🇧GB_6|2.9MB/s
   port: 443
   server: 212.102.63.1
   skip-cert-verify: true
   tls: true
   type: http
-- name: 🇬🇧GB_4|1.9MB/s
+- name: 🇬🇧GB_7|4.3MB/s
   password: None
   port: 443
   server: 37.120.233.34
   skip-cert-verify: true
   tls: true
-  type: http
-  username: null
-- name: 🇬🇧GB_5|2.0MB/s
-  password: None
-  port: 32766
-  server: 178.62.83.124
   type: http
   username: null

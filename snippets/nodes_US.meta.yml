@@ -43,42 +43,136 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- cipher: aes-256-cfb
+  name: 🇺🇸US_1|1.0MB/s
+  password: 7eadc6dbe2ae
+  port: 65443
+  server: 121.46.230.232
+  type: ss
 - alpn:
-  - h2
+  - http/1.1
   client-fingerprint: chrome
   encryption: none
-  name: 🇺🇸US_1|2.8MB/s
-  network: xhttp
-  port: '443'
-  server: 69.46.46.106
-  servername: marble-prairie-10e2-production.up.railway.app
-  tls: true
-  type: vless
-  udp: true
-  uuid: cd23ed17-33d8-499b-8836-f16531081366
-  xhttp-opts:
-    host: marble-prairie-10e2-production.up.railway.app
-    mode: stream-up
-    path: /xhttp-siz10/stream-up/cd23ed17-33d8-499b-8836-f16531081366
-  xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  name: 🇺🇸US_2|3.3MB/s
+  name: 🇺🇸US_2|2.8MB/s
   network: ws
   port: '443'
-  server: 172.67.204.201
-  servername: 7-m16.CHiaN-MAi-8.KDNs.FR
+  server: 69.46.46.197
+  servername: golden-falcon-bebf-production.up.railway.app
   tls: true
   type: vless
   udp: true
-  uuid: ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba
+  uuid: 6ad0c1ac-33de-ec50-2f38-81f7f2a275d4
   ws-opts:
     headers:
-      Host: 7-m16.CHiaN-MAi-8.KDNS.Fr
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/36.0.1985.125 Safari/537.36
-    path: /JRr6VGcSLFc034DC6sDbwyWJLbB
+      Host: golden-falcon-bebf-production.up.railway.app
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/66.0.3359.139 Safari/537.36
+    path: /ws/6ad0c1ac-33de-ec50-2f38-81f7f2a275d4
   xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 🇺🇸US_3|2.4MB/s
+  network: ws
+  port: '443'
+  server: 69.46.46.196
+  servername: golden-falcon-bebf-production.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6ad0c1ac-33de-ec50-2f38-81f7f2a275d4
+  ws-opts:
+    headers:
+      Host: golden-falcon-bebf-production.up.railway.app
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: /ws/6ad0c1ac-33de-ec50-2f38-81f7f2a275d4
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 🇺🇸US_4|1.5MB/s
+  network: ws
+  port: '443'
+  server: 69.46.46.34
+  servername: ivory-ridge-9884-production.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00be8dab-84dc-c4a3-5214-0987fbb4cbb3
+  ws-opts:
+    headers:
+      Host: ivory-ridge-9884-production.up.railway.app
+      User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    path: /ws/00be8dab-84dc-c4a3-5214-0987fbb4cbb3
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 🇺🇸US_5|3.8MB/s
+  network: ws
+  port: '443'
+  server: mooz-production-911f.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: 11ec75f9-f019-f841-15b4-a15a1e5b7207
+  ws-opts:
+    headers:
+      Host: ''
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.77 Safari/537.36
+    path: /ws/11ec75f9-f019-f841-15b4-a15a1e5b7207
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: 🇺🇸US_6|3.1MB/s
+  network: ws
+  port: '443'
+  server: 69.46.46.31
+  servername: golden-harbor-6f04-production.up.railway.app
+  tls: true
+  type: vless
+  udp: true
+  uuid: bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f
+  ws-opts:
+    headers:
+      Host: golden-harbor-6f04-production.up.railway.app
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/69.0.3497.100 Safari/537.36
+    path: /ws/bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f
+  xudp: true
+- encryption: none
+  name: 🇺🇸US_7|1.1MB/s
+  network: ws
+  port: '2087'
+  server: 178.95.170.83
+  servername: Telegram-Leviko_v2ray
+  type: vless
+  udp: true
+  uuid: bf443e4a-aa9e-4509-abf0-d0f6828d57be
+  ws-opts:
+    headers:
+      Host: ''
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/46.0.2490.86 Safari/537.36
+    path: /4bc027a44532
+  xudp: true
+- name: US_speednode_0131
+  password: 'null'
+  port: 9002
+  server: 138.199.35.216
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: 'null'
 - name: US_speednode_0143
   port: 9002
   server: 138.199.35.198
@@ -86,77 +180,50 @@ proxies:
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_4|4.5MB/s
-  password: ''
+- name: 🇺🇸US_10|4.1MB/s
   port: 9002
-  server: 138.199.35.212
+  server: 138.199.35.215
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-  username: ''
-- name: 🇺🇸US_5|1.8MB/s
-  password: None
+- name: 🇺🇸US_11|4.6MB/s
+  port: 9002
+  server: 138.199.35.214
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 🇺🇸US_12|4.2MB/s
+  port: 443
+  server: jewelscollecti.icu
+  skip-cert-verify: true
+  sni: jewelscollecti.icu
+  tls: true
+  type: http
+- name: 🇺🇸US_13|4.4MB/s
+  password: 'null'
   port: 443
   server: purecambogiasl.live
-  skip-cert-verify: true
   tls: true
   type: http
-  username: null
-- name: 🇺🇸US_6|1.5MB/s
-  password: None
-  port: 9002
-  server: 138.199.35.204
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_16|4.2MB/s
-  password: None
-  port: 443
-  server: goedkoopgeluid.icu
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_8|3.6MB/s
-  password: None
-  port: 443
-  server: crosscards.site
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_9|4.5MB/s
-  password: None
-  port: 9002
-  server: 138.199.35.218
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_10|3.8MB/s
-  port: 9002
-  server: 138.199.35.207
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 🇺🇸US_11|4.7MB/s
+  username: 'null'
+- name: 🇺🇸US_14|4.4MB/s
   port: 9002
   server: 138.199.35.206
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_12|4.6MB/s
-  port: 9002
-  server: 138.199.35.210
-  skip-cert-verify: true
+- name: 🇺🇸US_15|4.3MB/s
+  password: None
+  port: 443
+  server: zebpay.site
+  skip-cert-verify: false
   tls: true
   type: http
-  udp: true
-- name: 🇺🇸US_13|3.2MB/s
+  username: null
+- name: 🇺🇸US_16|4.4MB/s
   password: 'null'
   port: 9002
   server: 138.199.35.205
@@ -164,22 +231,51 @@ proxies:
   tls: true
   type: http
   username: 'null'
-- name: 🇺🇸US_14|4.0MB/s
+- name: 🇺🇸US_17|4.4MB/s
+  password: 'null'
+  port: 9002
+  server: 138.199.35.197
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 🇺🇸US_18|3.7MB/s
+  password: 'null'
+  port: 9002
+  server: 138.199.35.209
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 🇺🇸US_19|4.0MB/s
   password: None
   port: 443
-  server: webdrone.club
+  server: efr-marktplatz.club
   skip-cert-verify: false
   tls: true
   type: http
   username: null
-- name: 🇺🇸US_15|3.3MB/s
+- name: 🇺🇸US_20|4.6MB/s
   port: 9002
   server: 138.199.35.199
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_17|4.1MB/s
+- name: 🇺🇸US_21|4.1MB/s
+  port: 443
+  server: goedkoopgeluid.icu
+  skip-cert-verify: true
+  sni: goedkoopgeluid.icu
+  tls: true
+  type: http
+- name: 🇺🇸US_22|3.1MB/s
+  port: 443
+  server: jgwynphotoarts.pro
+  sni: jgwynphotoarts.pro
+  tls: true
+  type: http
+- name: 🇺🇸US_23|3.7MB/s
   password: ''
   port: 9002
   server: 138.199.35.196
@@ -187,22 +283,22 @@ proxies:
   tls: true
   type: http
   username: ''
-- name: 🇺🇸US_18|4.5MB/s
+- name: 🇺🇸US_24|4.4MB/s
+  password: ''
+  port: 9002
+  server: 138.199.35.203
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ''
+- name: 🇺🇸US_25|2.8MB/s
   port: 9002
   server: 138.199.35.213
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_19|3.5MB/s
-  password: None
-  port: 443
-  server: berniesbodybla.fun
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_21|2.1MB/s
+- name: 🇺🇸US_27|3.3MB/s
   password: None
   port: 443
   server: 52.55.81.168
@@ -210,7 +306,7 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 🇺🇸US_22|2.6MB/s
+- name: 🇺🇸US_28|3.1MB/s
   password: None
   port: 443
   server: 149.88.21.129
@@ -218,7 +314,7 @@ proxies:
   tls: true
   type: http
   username: null
-- name: 🇺🇸US_23|3.6MB/s
+- name: 🇺🇸US_29|3.3MB/s
   password: e4b72b531a2d10900519
   port: 443
   server: 147.182.216.4
@@ -226,6 +322,84 @@ proxies:
   tls: true
   type: http
   username: testuser1
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇺🇸US_30|4.2MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0
+    short-id: '!!str 525e0ffc773f48ba'
+  server: 172.236.233.59
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: abd1c29a-94cb-4648-8d1e-5baae9d2a807
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: 🇺🇸US_31|2.7MB/s
+  network: ws
+  port: '8443'
+  server: x9f2.guiming.net
+  servername: x9f2.guiming.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: cbf3b4be-b3a8-4f70-bd28-988e72f7d46d
+  ws-opts:
+    headers:
+      Host: x9f2.guiming.net
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/67.0.3396.99 Safari/537.36
+    path: /d8f3k2m9
+  xudp: true
+- name: 🇺🇸US_32|4.4MB/s
+  password: None
+  port: '9002'
+  server: 138.199.35.196
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- name: 🇺🇸US_33|4.4MB/s
+  password: 'null'
+  port: '9002'
+  server: 138.199.35.202
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: 'null'
+- client-fingerprint: chrome
+  name: 🇺🇸US_34|1.9MB/s
+  network: ws
+  port: '443'
+  server: 172.67.169.99
+  servername: 5-M16.PHukeT2035.Kdns.FR
+  tls: true
+  type: vless
+  udp: true
+  uuid: ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba
+  ws-opts:
+    headers:
+      Host: 5-m16.PHukeT2035.KDnS.FR
+      User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+    path: /JRr6VGcSLFc034DC6sDbwyWJLbB
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: 🇺🇸US_35|1.6MB/s
+  obfs: salamander
+  obfs-password: c8d95078e61be690c18e2fbbefe5e2ef
+  password: 975e9f98b4a1b01285ffdb8158ced798
+  port: '443'
+  server: 107.172.76.105
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: US_speednode_0130
@@ -241,15 +415,6 @@ proxies:
   type: vless
   udp: true
   uuid: 5905d91f-c3bc-4e80-bd66-4b17beb166cb
-- name: US_speednode_0131
-  password: 'null'
-  port: 9002
-  server: 138.199.35.216
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: 'null'
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: US_speednode_0132
