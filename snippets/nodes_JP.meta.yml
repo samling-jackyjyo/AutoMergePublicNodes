@@ -55,45 +55,28 @@ proxies:
   port: 40002
   server: 103.236.66.4
   type: ss
-- cipher: aes-256-cfb
-  name: 🇯🇵JP_1|1.4MB/s
-  password: 7eadc6dbe2ae
-  port: 65443
-  server: 121.46.230.137
-  type: ss
-- client-fingerprint: chrome
-  encryption: none
-  name: 🇯🇵JP_2|1.8MB/s
-  network: ws
-  port: '2096'
-  server: cloudflare.idc.rocks
-  servername: cindy.rainfall0705.cc.cd
-  tls: true
-  type: vless
-  udp: true
-  uuid: 341832cc-ba98-425b-8225-b3db621a0da3
-  ws-opts:
-    headers:
-      Host: cindy.rainfall0705.cc.cd
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
-    path: /
-  xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  name: 🇯🇵JP_3|1.8MB/s
+- client-fingerprint: random
+  name: 🇯🇵JP_1|1.6MB/s
   network: ws
   port: '443'
-  server: wangcai.cf.877774.xyz
-  servername: ex3r.qzz.io
+  server: ct.877774.xyz
+  servername: jp-osa.xhs152.shop
   tls: true
   type: vless
   udp: true
-  uuid: 16e80f38-e97e-4b14-ba89-77d87a3e637f
+  uuid: db04ac87-08bb-49a9-9deb-556fe915892e
   ws-opts:
     headers:
-      Host: ex3r.qzz.io
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/69.0.3497.100 Safari/537.36
-    path: /sg-orcl
+      Host: jp-osa.xhs152.shop
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/37.0.2062.120 Safari/537.36
+    path: /announcement
   xudp: true
+- name: 🇯🇵JP_2|1.3MB/s
+  password: ''
+  port: '443'
+  server: fan.571589.xyz
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: bnVsbDpudWxs

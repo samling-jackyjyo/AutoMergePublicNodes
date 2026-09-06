@@ -43,135 +43,51 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- client-fingerprint: chrome
-  name: 🇺🇸US_1|1.4MB/s
+- alterId: '0'
+  cipher: auto
+  name: 🇺🇸US_1|3.1MB/s
   network: ws
-  port: 443
-  server: 172.67.204.201
-  servername: 7-m16.CHiaN-MAi-8.KDNs.FR
-  tls: true
-  type: vless
+  port: '16648'
+  server: planb.mojcn.com.linuxlh.xin
+  skip-cert-verify: false
+  tls: false
+  type: vmess
   udp: true
-  uuid: ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba
+  uuid: b5f7ad86-9e40-4684-98f9-83f8136a1054
   ws-opts:
     headers:
-      Host: 7-m16.CHiaN-MAi-8.KDNS.Fr
-    path: /JRr6VGcSLFc034DC6sDbwyWJLbB
-- cipher: aes-256-cfb
-  name: 🇺🇸US_2|1.3MB/s
-  password: 7eadc6dbe2ae
-  port: '65443'
-  server: 121.46.230.232
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 🇺🇸US_3|1.9MB/s
-  network: ws
-  port: '2053'
-  server: 142.248.218.34
-  servername: edge.yzkvm.top
-  tls: true
-  type: vless
-  udp: true
-  uuid: bba95b1f-f48c-454b-897b-a6c6bc307df1
-  ws-opts:
-    headers:
-      Host: edge.yzkvm.top
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      Host: eeee7339c9f412913069ff64b12fb71f.mobgslb.tbcache.com
     path: /
   xudp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 🇺🇸US_4|1.1MB/s
-  network: tcp
+  name: 🇺🇸US_2|3.8MB/s
   port: 8443
   reality-opts:
     public-key: ry0Cf1hrbUuB-JK3ZnQvBvO0iknny9s1fKw3yuR1JyY
     short-id: '!!str d4a7f959d2193721'
   server: 155.103.156.60
   servername: www.ibm.com
+  skip-cert-verify: true
   tls: true
   type: vless
+  udp: true
   uuid: 74e2bf55-8495-49bc-99be-4a4d4ce2d2bf
-- name: 🇺🇸US_5|2.1MB/s
+- name: US_speednode_0134
   port: 443
-  server: tzoa.fun
-  sni: tzoa.fun
-  tls: true
-  type: http
-- name: 🇺🇸US_13|4.1MB/s
-  password: None
-  port: 443
-  server: purecambogiasl.live
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_7|4.1MB/s
-  port: 9002
-  server: 138.199.35.214
-  skip-cert-verify: true
+  server: voteshirleysew.club
+  sni: voteshirleysew.club
   tls: true
   type: http
   udp: true
-- name: 🇺🇸US_8|2.6MB/s
-  password: None
-  port: 443
-  server: mmgr.club
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_9|4.1MB/s
-  password: None
+- name: 🇺🇸US_4|2.7MB/s
   port: 443
   server: goedkoopgeluid.icu
   skip-cert-verify: true
+  sni: goedkoopgeluid.icu
   tls: true
   type: http
-  username: null
-- name: 🇺🇸US_10|2.9MB/s
-  password: None
-  port: 443
-  server: crosscards.site
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_11|3.2MB/s
-  port: 9002
-  server: 138.199.35.207
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 🇺🇸US_12|1.1MB/s
-  password: ''
-  port: 9443
-  server: 38.95.111.226
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: ''
-- name: 🇺🇸US_14|2.5MB/s
-  password: None
-  port: 443
-  server: jewelscollecti.icu
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_15|3.7MB/s
-  password: None
-  port: 443
-  server: kimberlymilano.icu
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: null
-- name: 🇺🇸US_16|3.2MB/s
+- name: 🇺🇸US_5|1.6MB/s
   password: ''
   port: 443
   server: mmgr.club
@@ -181,120 +97,26 @@ proxies:
   type: http
   udp: true
   username: ''
-- name: 🇺🇸US_17|4.4MB/s
+- name: 🇺🇸US_6|1.9MB/s
+  password: None
   port: 443
-  server: jgwynphotoarts.pro
-  sni: jgwynphotoarts.pro
+  server: berniesbodybla.fun
+  skip-cert-verify: false
   tls: true
   type: http
-- name: 🇺🇸US_18|4.5MB/s
-  port: 9002
-  server: 138.199.35.213
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 🇺🇸US_19|1.5MB/s
-  port: 443
-  server: zebpay.site
-  sni: zebpay.site
-  tls: true
-  type: http
-- encryption: none
-  name: 🇺🇸US_20|1.6MB/s
-  network: ws
-  port: '80'
-  server: 91.193.58.162
-  type: vless
-  udp: true
-  uuid: 26beb784-a664-4c3e-becf-0f0c12568b62
-  ws-opts:
-    headers:
-      Host: twilight-poetry-2bfe.218-699.workers.dev
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
-    path: /pyip=Telegram-WangCai2🇨🇳
-  xudp: true
-- client-fingerprint: qq
-  encryption: none
-  flow: xtls-rprx-vision
-  name: 🇺🇸US_21|3.1MB/s
-  network: tcp
-  port: '8443'
-  reality-opts:
-    public-key: 2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY
-    short-id: '!!str fad7e3b745b23e34'
-  server: 167.104.217.251
-  servername: nl250.atlanta-api.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 29834e2e-729c-491f-af21-d1d9a8bde8c6
-  xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: 🇺🇸US_22|1.0MB/s
-  network: raw
-  port: '8443'
-  reality-opts:
-    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: '!!str 6ba85179e30d4fc2'
-  server: 150.241.101.80
-  servername: yandex.net
-  tls: true
-  type: vless
-  udp: true
-  uuid: 47d9b534-8a0a-4bd2-90f1-1d6ade14427e
-  xudp: true
-- encryption: none
-  name: 🇺🇸US_23|1.7MB/s
-  network: ws
-  port: '8080'
-  server: 104.21.70.21
-  servername: srv-b890f5-eb36b6.omidiabolfazl155-c5f1.workers.dev
-  type: vless
-  udp: true
-  uuid: cbfeff27-6e7a-4e99-b5ad-6b830e191741
-  ws-opts:
-    headers:
-      Host: srv-b890f5-eb36b6.omidiabolfazl155-c5f1.workers.dev
-      User-Agent: Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/46.0.2490.80 Safari/537.36
-    path: /vl/wk14rIXEvRltsm88Nsboi?ed
-  xudp: true
-- encryption: none
-  name: 🇺🇸US_24|1.6MB/s
-  network: ws
-  port: '8880'
-  server: 45.131.7.30
-  type: vless
-  udp: true
-  uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-  ws-opts:
-    early-data-header-name: Sec-WebSocket-Protocol
-    headers:
-      Host: vms.lifetime02.workers.dev
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-    max-early-data: 2560
-    path: /
-  xudp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 🇺🇸US_25|2.7MB/s
-  network: tcp
+  username: null
+- down: ''
+  fingerprint: ''
+  name: 🇺🇸US_7|3.6MB/s
+  obfs: salamander
+  obfs-password: ba30dfb1828334e12c5f5068df5680a4
+  password: 6483ecc41890f37033911d0facc8abf5
   port: '443'
-  reality-opts:
-    public-key: OLu8kkwCfKtarfC-FGBkabm6VndbagUjrLs8g9J1ggs
-    short-id: '!!str 16f185db'
-  server: 104.160.40.178
-  servername: apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 1ba59c9e-b827-4b41-a532-86df55f8535d
-  xudp: true
+  server: 166.0.16.142
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: US_speednode_0130
@@ -338,12 +160,6 @@ proxies:
   port: 443
   server: fan.365747.xyz
   skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: US_speednode_0134
-  port: 443
-  server: voteshirleysew.club
   tls: true
   type: http
   udp: true
