@@ -14,18 +14,6 @@ proxies:
   sni: hopp-transit.1cooldns.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: -🇫🇷 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 4savc5ig1n3549e4
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 🇫🇷@AZARBAYJAB1
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -36,3 +24,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: 🇫🇷FR_1|1013KB/s
+  network: ws
+  password: humanity
+  port: '443'
+  server: 165.215.250.14
+  skip-cert-verify: true
+  sni: www.ignitelimit.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /assignment
