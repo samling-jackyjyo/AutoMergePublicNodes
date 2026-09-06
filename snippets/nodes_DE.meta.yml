@@ -68,6 +68,16 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 🇩🇪@AZARBAYJAB1
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 6mk75ho4jzef3uuj
+  port: 52022
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: '-🇩🇪 @VConfing #1'
@@ -88,6 +98,16 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇩🇪ConfigV2RayNG
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram@vpnjey
+  port: 37009
+  server: 31.76.27.23
+  skip-cert-verify: false
+  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:
@@ -133,48 +153,93 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪DE_1|1.1MB/s
-  network: ws
-  port: 2087
-  server: 188.220.67.245
-  tls: false
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  down: 100 Mbps
+  name: 🇩🇪DE_1|2.8MB/s
+  port: 20088
+  protocol: udp
+  server: 5.83.129.153
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  up: 50 Mbps
+- name: 🇩🇪DE_2|1.1MB/s
+  password: udp-relay=true
+  port: 11111
+  server: 103.237.102.191
+  type: http
+  username: None
+- client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: gun
+  name: 🇩🇪DE_3|3.5MB/s
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng
+    short-id: '!!str 3fa234ea9feaa048'
+  server: mageia.ubuntuhosting.host
+  servername: mageia.ubuntuhosting.host
+  tls: true
   type: vless
   udp: true
-  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
-  ws-opts:
-    path: /8f2690e2d016
-- encryption: mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg
-  http-opts:
-    headers:
-      Host:
-      - amp-api-edge.apps.apple.com
-    path:
-    - /
-  name: 🇩🇪DE_2|2.2MB/s
-  network: http
-  port: '37801'
-  server: 88.198.107.126
-  type: vless
-  udp: true
-  uuid: da68a6b7-a3da-416a-a776-5788dded633b
+  uuid: d7430ae7-320c-4658-808b-3006d0627d82
   xudp: true
-- name: 🇩🇪DE_3|3.4MB/s
-  port: 443
-  server: 138.201.56.241
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇩🇪DE_4|2.7MB/s
-  password: None
-  port: 443
-  server: 149.36.50.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇩🇪DE_5|3.0MB/s
+- name: 🇩🇪DE_4|1.7MB/s
   port: 443
   server: 149.36.50.129
   skip-cert-verify: true
   tls: true
   type: http
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: grpc-tunnel
+  name: 🇩🇪DE_5|4.1MB/s
+  network: grpc
+  port: '2054'
+  reality-opts:
+    public-key: mlJSEX5zJodpeofSicXnd0tlrgonVCGJ3M-qqWF4FSU
+    short-id: '!!str '
+  server: 159.195.192.169
+  servername: www.ibm.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 75079a7f-75b5-418b-8a65-f7b2f438cd4a
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_6|1.6MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30
+    short-id: '!!str 4da5d1853f04af6d'
+  server: rrr.windconnect.pro
+  servername: rrr.windconnect.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: af00e0c4-decf-48f2-9013-56abe9c9efcd
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_7|2.1MB/s
+  network: raw
+  port: '40792'
+  reality-opts:
+    public-key: CkuULNczLmaVd-vabRfj3UpPd__M7BlrXivZ728Toyg
+    short-id: '!!str 546b264aac9b6fed'
+  server: 5.75.195.244
+  servername: amp-api-edge.apps.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c4121c07-f135-4695-b465-d6bcda24cc57
+  xudp: true
