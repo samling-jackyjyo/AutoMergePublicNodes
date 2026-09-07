@@ -35,10 +35,102 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- client-fingerprint: firefox
+  name: 🇬🇧GB_1|4.6MB/s
+  network: xhttp
+  port: 443
+  server: xs13.mcufa.pro
+  servername: xs13.mcufa.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0764541b-3e57-4b47-954b-51e996fae5fc
+  xhttp-opts:
+    host: xs13.mcufa.pro
+    mode: packet-up
+    path: /api/v1/minecraft178/sync/
+    sc-max-each-post-bytes: 1000000
+    uplink-data-placement: body
+    uplink-http-method: GET
+- client-fingerprint: chrome
+  encryption: none
+  name: 🇬🇧GB_2|1.3MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I
+    short-id: '!!str '
+  server: freshjuniper.download
+  servername: localhost
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6429d27e-a7d4-4e04-ae57-e88243fbbfe3
+  xudp: true
+- name: 🇬🇧GB_3|2.2MB/s
+  password: ''
+  port: '1080'
+  server: 83.147.216.208
+  skip-cert-verify: true
+  type: socks5
+  username: ''
+- name: 🇬🇧GB_4|2.7MB/s
+  password: None
+  port: 443
+  server: 185.235.0.66
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 🇬🇧GB_5|1.4MB/s
+  password: None
+  port: 443
+  server: 37.120.233.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 🇬🇧GB_6|2.8MB/s
+  port: 443
+  server: 185.235.0.98
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 🇬🇧GB_7|2.9MB/s
+  password: None
+  port: 443
+  server: 212.102.63.61
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: null
+- name: 🇬🇧GB_8|1.1MB/s
+  port: 443
+  server: 212.102.63.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: streaming
+  name: 🇬🇧GB_9|2.4MB/s
+  network: grpc
+  port: '43439'
+  reality-opts:
+    public-key: b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4
+    short-id: '!!str 39ad36226f3abec8'
+  server: 31.77.111.11
+  servername: cdn.higames.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 428e923f-e608-412b-9e51-3b09ffab551f
+  xudp: true
 - client-fingerprint: qq
   encryption: none
   flow: xtls-rprx-vision
-  name: 🇬🇧GB_8|2.2MB/s
+  name: 🇬🇧GB_10|3.2MB/s
   network: raw
   port: '443'
   reality-opts:
@@ -51,55 +143,3 @@ proxies:
   udp: true
   uuid: 2c7f1414-87ae-4a01-9796-a02c067891a6
   xudp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇬🇧GB_2|3.2MB/s
-  password: T6IcUpcVx0Y85DxSTgXe4A
-  port: '97'
-  server: 86.38.182.226
-  type: ss
-  udp: true
-- client-fingerprint: firefox
-  encryption: none
-  grpc-opts:
-    grpc-service-name: api
-  name: 🇬🇧GB_3|3.5MB/s
-  network: grpc
-  port: '43435'
-  reality-opts:
-    public-key: mc5GFUALNT1V4TgYZ4OWJHB2DQ-G-b4qLYsRlgWB-VQ
-    short-id: '!!str 37dc4f92a7470fa0'
-  server: 31.77.111.31
-  servername: cdn.higames.ru
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2feda6f7-8baa-4591-a851-1e2037a58572
-  xudp: true
-- name: 🇬🇧GB_4|3.0MB/s
-  password: None
-  port: 443
-  server: 185.235.0.66
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null
-- name: 🇬🇧GB_5|1.7MB/s
-  port: 443
-  server: 185.235.0.98
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇬🇧GB_6|2.9MB/s
-  port: 443
-  server: 212.102.63.1
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇬🇧GB_7|4.3MB/s
-  password: None
-  port: 443
-  server: 37.120.233.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-  username: null

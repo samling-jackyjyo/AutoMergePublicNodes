@@ -1,15 +1,7 @@
 proxies:
-- name: 🇸🇪SE_1|3.1MB/s
-  port: 443
-  server: 146.70.242.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇸🇪SE_2|2.2MB/s
-  password: None
+- name: 🇸🇪SE_1|1.8MB/s
   port: 443
   server: 149.50.216.65
   skip-cert-verify: true
   tls: true
   type: http
-  username: null

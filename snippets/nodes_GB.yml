@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 🇬🇧GB_2|3.2MB/s
-  password: T6IcUpcVx0Y85DxSTgXe4A
-  port: '97'
-  server: 86.38.182.226
-  type: ss
-  udp: true
+proxies: []
