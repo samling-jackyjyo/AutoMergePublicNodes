@@ -49,3 +49,60 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_1|2.3MB/s
+  port: 443
+  server: 149.36.50.1
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 🇩🇪DE_2|1.0MB/s
+  password: None
+  port: 11111
+  server: 103.237.102.191
+  type: http
+  username: null
+- client-fingerprint: safari
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_3|3.5MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: U4LYpnbhLS3eLCcInqW-k6gSn_Qf1k-5LWAU6Cm_JTc
+    short-id: '!!str 3d602f6729b33b59'
+  server: 45.95.96.182
+  servername: ai.yump.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0a975d79-6930-4861-a105-dc50793456de
+  xudp: true
+- encryption: none
+  name: 🇩🇪DE_4|1.9MB/s
+  network: ws
+  port: '2086'
+  server: 172.67.160.192
+  type: vless
+  udp: true
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: mAhaNrEaliteAm.MaHkHan.iR.
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.77 Safari/537.36
+    path: /internet,?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: cdn.v1.AssetService
+  name: 🇩🇪DE_5|1.5MB/s
+  network: grpc
+  port: '443'
+  server: 72.4.65.116
+  servername: assets-de2.pleiades.codes
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0dca2cfe-98eb-4f9d-9a47-cf87510c558b
+  xudp: true

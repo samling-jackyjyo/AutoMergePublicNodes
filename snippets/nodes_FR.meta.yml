@@ -1,1 +1,15 @@
-proxies: []
+proxies:
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇫🇷FR_1|1.7MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI
+    short-id: '!!str 716b7eba38125f3a'
+  server: 198.16.113.221
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 321a9870-0298-428e-b506-ddad3402f3e3

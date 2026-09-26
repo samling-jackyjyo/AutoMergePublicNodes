@@ -52,6 +52,64 @@ proxies:
   type: ss
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
+  name: 🇺🇸US_1|2.3MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: bvG7GBU_gOKuBuAagnC07EbQZ_2tJ8OhBNSVGkHSugo
+    short-id: '!!str 66d62ef550107695'
+  server: 38.34.190.212
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c05ce6f2-7e9d-4b20-82fc-597bad3af79a
+- client-fingerprint: chrome
+  name: 🇺🇸US_2|1.1MB/s
+  network: ws
+  port: 443
+  server: 172.67.219.181
+  servername: 7-7.HuangSHANG.boND
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 62e499fe-458e-47da-a0c8-cae69144ebe9
+  ws-opts:
+    headers:
+      Host: 7-7.HuAnGSHAnG.bOnD
+    path: /FbLtzaav4GSW7GPL6LUGsEkZ
+- name: 🇺🇸US_3|1.9MB/s
+  port: 9443
+  server: 38.95.111.226
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 🇺🇸US_4|1.6MB/s
+  port: 443
+  server: 216.107.139.82
+  skip-cert-verify: true
+  sni: 991cc80f13caf81d3426ddebb2da7f49-92ff472ddc24e5b7.apache-iv.com
+  tls: true
+  type: http
+- client-fingerprint: safari
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇺🇸US_5|2.8MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: fkZTYNydTBVO-1LSiTvDcyBMx-zBP5Am780jECmUgg0
+    short-id: '!!str '
+  server: 31.77.17.199
+  servername: fi03.mcloud.mov
+  tls: true
+  type: vless
+  udp: true
+  uuid: deea5046-3543-4b1b-a17f-3d08a65db91d
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
   name: US_speednode_0130
   network: tcp
   port: 443
