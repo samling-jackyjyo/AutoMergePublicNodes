@@ -294,18 +294,11 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- cipher: aes-256-cfb
-  name: 🇺🇸US_3|1.4MB/s
-  password: amazonskr05
+- name: 🇺🇸US_1|4.1MB/s
+  password: OnHLrkVqZVtZyulTwC4bHrIbW7GyUDttKVNGEYVR12Y=
   port: 443
-  server: 54.90.169.61
+  server: 192.236.151.43
   skip-cert-verify: true
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 🇸🇪SE_1|1.6MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.48.104.64
-  type: ss
+  sni: 192.236.151.43
+  type: trojan
   udp: true
