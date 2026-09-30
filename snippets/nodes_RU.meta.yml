@@ -19,7 +19,7 @@ proxies:
   type: hysteria2
 - down: ''
   fingerprint: ''
-  name: 🇷🇺RU_1|3.6MB/s
+  name: 🇷🇺RU_1|3.3MB/s
   obfs: ''
   obfs-password: ''
   password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
@@ -31,19 +31,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: 🇷🇺RU_2|1.4MB/s
-  obfs: ''
-  obfs-password: ''
-  password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
-  port: '22443'
-  server: 91.240.86.70
-  skip-cert-verify: true
-  sni: 91.240.86.70
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: 🇷🇺RU_3|3.5MB/s
+  name: 🇷🇺RU_2|2.0MB/s
   obfs: ''
   obfs-password: ''
   password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5

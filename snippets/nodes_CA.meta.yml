@@ -1,35 +1,7 @@
 proxies:
-- name: 🇨🇦CA_1|3.2MB/s
-  port: 443
-  server: 206.223.183.21
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇨🇦CA_2|2.1MB/s
+- name: 🇨🇦CA_1|1.7MB/s
   port: 443
   server: 206.223.161.47
   skip-cert-verify: true
   tls: true
   type: http
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  client-fingerprint: chrome
-  encryption: none
-  name: 🇨🇦CA_3|1.6MB/s
-  network: ws
-  port: '2053'
-  server: any.elifportal.web.tr
-  servername: any.elifportal.web.tr
-  tls: true
-  type: vless
-  udp: true
-  uuid: 566dc0a7-4a2d-49d0-bd87-d8d5443abbb2
-  ws-opts:
-    headers:
-      Host: any.elifportal.web.tr
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
-    path: /uk-cdn
-  xudp: true
