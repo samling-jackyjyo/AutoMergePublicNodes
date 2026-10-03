@@ -1,4 +1,14 @@
 proxies:
+- name: 🪙98@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 309502c4a8df10b46fb976d4a8c43f42
+  password: d042d150716709bb778cc73889cddb02
+  port: 443
+  server: 138.2.89.249
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 🇸🇬[www.v2nodes.com] vless-SG
   network: ws
   port: 2095

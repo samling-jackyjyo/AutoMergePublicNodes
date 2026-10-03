@@ -7,15 +7,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- auth: 4291c983-c520-46ac-82cc-48f14bef573f
-  name: '🇺🇸 美国 | USA #4'
-  password: 4291c983-c520-46ac-82cc-48f14bef573f
-  port: 35013
-  server: 129.213.91.185
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: '🇺🇸[www.v2nodes.com] vless-US-1... #3'
   network: ws
