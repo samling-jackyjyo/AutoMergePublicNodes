@@ -35,16 +35,49 @@ proxies:
     headers:
       Host: sub.merky.top
     path: /merky-connect/de6/
-- name: 🇸🇪SE_1|2.7MB/s
-  password: None
-  port: 443
-  server: 146.70.242.130
-  skip-cert-verify: true
-  tls: true
-  type: http
-- name: 🇸🇪SE_2|2.9MB/s
+- name: 🇸🇪SE_1|2.3MB/s
   port: 443
   server: 79.142.77.63
   skip-cert-verify: true
   tls: true
   type: http
+- name: 🇸🇪SE_2|1.6MB/s
+  port: 443
+  server: 146.70.242.146
+  skip-cert-verify: true
+  tls: true
+  type: http
+- name: 🇸🇪SE_3|1.1MB/s
+  port: 443
+  server: 146.70.242.130
+  skip-cert-verify: true
+  tls: true
+  type: http
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  grpc-opts:
+    grpc-mode: gun
+    grpc-service-name: content.v1.Feed
+  name: 🇸🇪 瑞典 | SWE
+  network: grpc
+  port: 443
+  server: 31.207.7.117
+  servername: se-twitch.global-cdn.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 524dd22d-9f8c-4cc4-9e12-f427f497dff4
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: ''
+  name: '🇸🇪 瑞典 | SWE #1'
+  network: grpc
+  port: 443
+  server: 31.207.7.117
+  servername: se-twitch.global-cdn.org
+  tls: true
+  type: vless
+  uuid: 524dd22d-9f8c-4cc4-9e12-f427f497dff4
